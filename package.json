@@ -1,0 +1,16 @@
+{
+  "name": "crud-mongo",
+  "version": "1.0.0",
+  "description": "rest-node-mongo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/start.js"
+  },
+  "author": "CrisOspina",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.4"
+  }
+}
